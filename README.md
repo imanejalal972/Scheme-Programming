@@ -19,7 +19,12 @@ c)  snoc in Scheme <br />
 ![](Problems/problem2.PNG)<br />
 * Answer: <br />
 
-
+a) function simplify in Scheme <br />
+b) function remove-noops in Scheme <br />
+(define (remove-noops pred l) <br />
+ (cond ((null? l) l) <br />
+ ((pred (car l)) (remove-noops pred (cdr l))) <br />
+ (else (cons (car l) (remove-noops pred (cdr l))))) <br /><br /><br />
 
 ## Problem 3 <br />
 ![](Problems/problem3.PNG)<br />
