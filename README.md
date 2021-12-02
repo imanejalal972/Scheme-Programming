@@ -13,7 +13,7 @@ b)  rdc in Scheme <br />
 
 c)  snoc in Scheme <br />
 (define snoc (a l) <br />
- (reverse (cons a (reverse l)))) <br />
+ (reverse (cons a (reverse l)))) <br /><br /><br />
 
 ## Problem 2
 ![](Problems/problem2.PNG)<br />
@@ -21,3 +21,6 @@ c)  snoc in Scheme <br />
 ## Problem 3
 ![](Problems/problem3.PNG)<br />
 * Answer: <br />
+
+# Helpful slides to undertand more about this scheme programming:
+[embed]https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf[/embed]
