@@ -20,6 +20,11 @@ c)  snoc in Scheme <br />
 * Answer: <br />
 
 a) function simplify in Scheme <br />
+(define simplify(l) <br />
+  (list(list '+   (lambda (u v)(list '+ (d u) (d v)))) <br />
+       (list '-   (lambda (u v)(list '- (d u) (d v)))) <br />
+       (list '*   (lambda (u v)(list '+ (list '* u (d v))(list '* (d u) v)))))) <br /><br />
+       
 b) function remove-noops in Scheme <br />
 (define (remove-noops pred l) <br />
  (cond ((null? l) l) <br />
