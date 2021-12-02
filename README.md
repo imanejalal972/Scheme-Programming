@@ -35,6 +35,12 @@ b) function remove-noops in Scheme <br />
 ![](Problems/problem3.PNG)<br />
 * Answer: <br />
 
+#translate numbers to words <br />
+(define translate1 (W) <br />
+  (cond ((= n 0) ('EMPTY)) <br />
+      (else ((> n 19) ( + ( + Y[n // 10] X[n % 10]) W))) <br />
+      (else ((>= 19 n) (+ X[n] W))))) <br />
+
 # Helpful slides to undertand more about this scheme programming:
 <object data="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf">
