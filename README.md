@@ -23,4 +23,8 @@ c)  snoc in Scheme <br />
 * Answer: <br />
 
 # Helpful slides to undertand more about this scheme programming:
-[embed]https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf[/embed]
+<object data="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
