@@ -42,11 +42,7 @@ b) function remove-noops in Scheme <br />
       (else ((>= 19 n) (+ X[n] W))))) <br />
 
 ## Helpful slides to undertand more about this scheme programming: ##
-<object data="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://alandix.com/academic/teaching/AI355/pdfs/scheme%20(CSc355%20version)-6up.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[embed]github.com/pie972/Adversarial-Search/blob/main/Improving%20Monte%20Carlo%20Tree%20Search%20with%20Artificial%20Neural%20Networks%20without%20Heuristics.pdf[/embed]
 
 ## WHEN to Contribute? ##
 You are ***always welcome*** to contribute.
